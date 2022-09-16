@@ -10,3 +10,6 @@ myvenv
 
 *.bak 
 *~  
+
+.env
+
